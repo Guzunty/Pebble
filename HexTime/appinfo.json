@@ -1,0 +1,18 @@
+{
+  "uuid": "37358d6b-d3f5-421e-98a4-7aa6d61dfd0a",
+  "shortName": "HexTime",
+  "longName": "Hex Time",
+  "companyName": "Guzunty",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
